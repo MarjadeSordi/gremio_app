@@ -1,0 +1,19 @@
+.HeaderContainer{
+    width: 100;
+    background-color: #4F4F4F;
+    color:#B0C4DE;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+    height: 120px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.HeaderLogo{
+    width: 100px;
+}
